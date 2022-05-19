@@ -5,8 +5,9 @@ This challenge employs Excel VBA to assess the total volumes and returns of stoc
 
 ## 2. Purpose
   1) To provide Steve's parents with Total Daily Volumes and Anual returns for the years 2017 and 2018
-  2) Developing Excel into a user-friendly medium by including a Run stock Analysis button and a Clear data button
-  3) To arrive at the most time-efficient by exploring the ideology of Refactoring
+  2) Developing the excel into a user-friendly medium by including a Run stock Analysis button and a Clear data button
+  3) To arrive at the most time-efficient code by exploring the ideology of Refactoring
+  4) To make the code reusable, if in case the stakeholders need to do additional analysis
 
 ## 3. Result of Data Analysis
 
